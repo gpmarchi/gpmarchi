@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/gpmarchi">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gpmarchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpmarchi&layout=compact&theme=dracula"/>
+    <img width="430em" height="180em" src="https://github-readme-stats.vercel.app/api?username=gpmarchi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img width="360em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpmarchi&layout=compact&theme=dracula"/>
   </a>
 </div>
 
