@@ -52,6 +52,9 @@
   <a href="#">
     <img align="center" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   </a>
+  <a href="#">
+    <img align="center" alt="kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+  </a>
 </div>
 
 ##
