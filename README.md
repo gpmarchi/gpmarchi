@@ -47,7 +47,7 @@
     <img align="center" alt="sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
   </a>
   <a href="#">
-    <img align="center" alt="handlebars" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg">
+    <img align="center" alt="handlebars" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/handlebars/handlebars-original.svg">
   </a>
   <a href="#">
     <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
